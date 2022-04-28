@@ -1,5 +1,5 @@
 ## Arcademy - Arweave Social Learning app
-(https://app.travis-ci.com/Dameon1/arcademy.svg?branch=main)
+[![Build Status](https://app.travis-ci.com/Dameon1/arcademy.svg?branch=main)](https://app.travis-ci.com/Dameon1/arcademy.svg?branch=main)
 🛠 Built with [Next.js](https://nextjs.org/), [Arweave](https://www.arweave.org/), [Bundlr](https://bundlr.network/), [Ceramic](https://ceramic.network/), GraphQL, & [Polygon](https://polygon.technology/)
 
 
