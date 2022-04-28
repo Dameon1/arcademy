@@ -7,7 +7,7 @@ const nextConfig = {
       "/": { page: "/" }
     };
   },
-  assetPrefix: 'dameon1.github.io/arcademy',
+  assetPrefix: '/arcademy',
   images: { loader: 'custom' },
 }
 
