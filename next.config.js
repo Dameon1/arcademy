@@ -7,7 +7,7 @@ const nextConfig = {
       "/": { page: "/" }
     };
   },
-  assetPrefix: '.',
+  assetPrefix: 'dameon1.github.io/arcadem',
   images: { loader: 'custom' },
 }
 
