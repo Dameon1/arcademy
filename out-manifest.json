@@ -1,0 +1,28 @@
+{
+"manifest": "arweave/paths",
+"version": "0.1.0",
+"paths": {
+"404.html":{"id":"4aK0u36jlpWRe_S84DUrDwWSo1ZBVqjIvjKKhpzCkV8"},
+"account.html":{"id":"NyfPJCBMsmfV53G-bLIvCAHRicSUf5nT1e_UceXVYJg"},
+"index.html":{"id":"VZyMfvZ0DqnqItMOw2ZCYJz4fY0UJDILgzoO12JEq4I"},
+"refresh.svg":{"id":"Mo7TmPfpv9RhnSeIlq8I4IPD4tus8XvZyOirJC1t3u4"},
+"favicon.ico":{"id":"hE-fdEBPIEzYpf_Q9YYHWLNry_wEMOk71hbhoUZ0hac"},
+"vercel.svg":{"id":"-QieztE9bjSxczvVVe99kagsWElfyPrLcfFL-9mccfQ"},
+"stars.svg":{"id":"dqmoR4dyhloyzzRctjCCMebI1_YSYO3d2gY9ItTTMrI"},
+"_next\static\chunks\pages\account-238f90f004f36e9a.js":{"id":"mZ3w1JtRl2Bjx_xD_enB42X8OMMh-4MlosB-ZA5VZHE"},
+"_next\static\chunks\framework-75db3117d1377048.js":{"id":"nqdcOjUKvJ0hemre9vBRD4NHq61gj3p4fT45NmMelRg"},
+"_next\static\chunks\pages\index-5ed05ed46721a284.js":{"id":"Dol23i7QV-BQ5W4npE6xvIvqgDd1a8vt1LaXWfcWrKg"},
+"_next\static\chunks\pages\_error-0509152792d2b207.js":{"id":"rh6IB76cXuCJfG27cSzZZM-5Jc9Uop8M2l84kvqNZ18"},
+"_next\static\chunks\4-6aca069ca3c90551.js":{"id":"lMIkuuOk_qqfn7w6EOVZeK34_FT5akamrkMl03o-qns"},
+"_next\static\chunks\main-f72cfb66f4396195.js":{"id":"Dq1WTG2XqPE-Q9PI8PxqAVKuoSz2YD7rcZ2GadQgGME"},
+"_next\static\chunks\webpack-5761f3a204ffdf4a.js":{"id":"qUzsMrNFaxm4egVhLUBDxsGORp2UWMgHI-tVjJ2Jz9I"},
+"_next\static\chunks\260-d3488abdc8cb173c.js":{"id":"6_66vJ0SakPgY1Z6Q7TDpAC7jczmppNwuBqevVqkoTA"},
+"_next\static\css\c7955b609fed92af.css":{"id":"2qVSnerSr8rw3Gs0bnT1Y0VxLcmwitTnS6pxa3T5S5Q"},
+"_next\static\chunks\polyfills-5cd94c89d3acac5f.js":{"id":"t8qFr9oL-5yMDi-Z_nct8V3s12xV-eTBj8ES2q8-59w"},
+"_next\static\chunks\pages\_app-b41ecfa13e5fbef9.js":{"id":"ofb1EuLsQYzr7DujDmhcK9zrCvB7CmVZ4AhWWia_jL4"},
+"_next\static\ajvJ7LU-xPnjqOZKurfTV\_middlewareManifest.js":{"id":"jRHkuGllRXZ6P0k6ihwONev-OZ0g2emVj3Rqi51DjGc"},
+"_next\static\ajvJ7LU-xPnjqOZKurfTV\_buildManifest.js":{"id":"Atvesu1Lqw_jdS5lD_-tAFfUoQSY3F8yNuFaDVYbjBg"},
+"_next\static\ajvJ7LU-xPnjqOZKurfTV\_ssgManifest.js":{"id":"Ax6mvwTKGWHs_sJoP0sESNzuw7S1YnyC97_Q7AJ-QFo"}
+},
+"index":{"path":"index.html"}
+}
