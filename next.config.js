@@ -7,7 +7,7 @@ const nextConfig = {
       "/": { page: "/" }
     };
   },
-  assetPrefix: '/arcademy',
+  assetPrefix: '/arcademy/',
   images: { loader: 'custom' },
 }
 
