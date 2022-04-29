@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "dev": "next dev",
-        "build": "next build && arkb deploy build -w ../secrets/leaf2.json --timeout=50000 --debug",
+        "build": "next build",
         "start": "next start",
         "lint": "next lint",
         "export": "next export"
