@@ -7,7 +7,7 @@ const nextConfig = {
       "/": { page: "/" }
     };
   },
-  PUBLIC_URL: "https://www.dameonmendoza.com/arcademy",
+  PUBLIC_URL: "/",
   assetPrefix: './',
   images: { loader: 'custom' },
 }
