@@ -18,7 +18,7 @@ module.exports = {
   // Remove this workaround whenever the issue is fixed
   nextConfig,
   env: {
-    PUBLIC_URL: "https://your-organization-or-username.github.io/my-nextjs-app",
+    PUBLIC_URL: "https://www.dameonmendoza.com/arcademy",
     assetPrefix: './'
   },
   images: {
