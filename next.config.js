@@ -1,17 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  trailingSlash: true,
-  exportPathMap: function () {
-    return {
-      "/": { page: "/" }
-    };
-  },
-  PUBLIC_URL: "/",
-  assetPrefix: './',
-  images: { loader: 'custom' },
+  reactStrictMode: false,
 }
-
 
 module.exports = {
   // https://github.com/vercel/next.js/issues/21079
